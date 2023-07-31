@@ -1,0 +1,151 @@
+body {background: var(--gray-dark-50, #1a3e47);
+    margin-top: 100px;
+}
+.itens{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: var(--gray-dark-900, #fff);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 120% */
+    letter-spacing: -0.6px;
+    margin: 10px;
+
+}
+.escrito-menu-itens{
+    color: #fff7ee;
+    font-family: 'Roboto', sans-serif;
+}
+.apresentacao-nome{
+    color: var(--gray-dark-900, #fed39d);
+    font-family: 'Merriweather', serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+.foto-perfil{
+    width: 300px;
+    height: 300px;
+    flex-shrink: 0;
+    background: var(--gray-dark-200, #fff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 5px 5px 6px 0px rgba(0,18,25,0.51);
+    border-radius: 46% 54% 48% 52% / 42% 56% 44% 58%;
+}
+.apresentacao-nome{
+    color: #fcefdf;
+}
+.escrito-apresentacao{
+    color: #fff7ee;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-top: 20px;
+}
+.apresentacao-escrito{
+    margin: 15px;
+}
+.local-ituporanga{
+    color: #fff7ee;
+}
+.area-localizacao{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    margin-top: 50px;
+}
+.icon-loc{
+    margin-right: 5px;
+}
+.redes-sociais{
+    margin-left: 10px;
+    margin-top: 10px
+}
+
+svg.git {
+    width: 30px;
+    margin-right: 5px;
+    padding: auto;
+}
+svg.twitter {
+    width: 30px;
+    margin-right: 5px;
+}
+svg.instagram {
+    width: 30px;
+    margin-right: 5px;
+}
+svg.linkedin {
+    width: 30px;
+    margin-right: 5px;
+}
+.Home{
+    margin-right: 10px;
+}
+.about-me{
+    margin-right: 10px;
+}
+.skills{
+    margin-right: 10px;
+}
+.project{
+    margin-right: 10px;
+}
+.contact{
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    box-sizing: content-box;
+}
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');

@@ -1,0 +1,86 @@
+body {
+    background: var(--gray-dark-50, #092128);
+    margin-top: 100px;
+}
+.header{
+    right: -20px !important;
+ }
+.escrito-biografia{
+    color: #fff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    font-family: 'Roboto', sans-serif;
+}
+.geral{
+    
+    padding: 40px 16px;
+}
+.escrito-lista{
+    color: var(--gray-dark-600, #ffffff);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+}
+.titulo-biografia{
+    color: var(--gray-dark-600, #ffffff);
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foto-biografia{
+    width: 250px;
+    box-shadow: 4px 5px 3px 3px rgba(0,0,0,1);
+    border-radius:43% 57% 42% 58% / 50% 38% 62% 50%;
+    margin-left: 45px;
+    margin-bottom: 30px;
+}
+.biografia{
+    background-color: #1a3e47;
+    box-shadow: 4px 5px 3px 3px rgba(0,0,0,1);
+    border-radius: 12px;
+    padding: 3px;
+    padding-left: 15px;
+}
+.titulo-geral{
+    color: #fcefdf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
